@@ -1,0 +1,21 @@
+#sidebar {
+  position: absolute;
+  width: 300px;
+  background-color: black;
+  height: 100vh;
+}
+
+p.heading {
+  font-size: x-large;
+  color: white;
+}
+
+p.base {
+  font-size: x-large;
+  color: white;
+}
+
+a {
+  color: white;
+  
+}

@@ -1,0 +1,22 @@
+div.container{
+  background-color: #0bb5e2;
+}
+div.IconsTile {
+  float: left;
+  width: 33.3%;
+  text-align: center;
+  user-select: none;
+  transition: transform .2s;
+}
+
+div.IconsTile :hover{
+  transform: scale(1.04);
+}
+
+/* Clear floats after the columns */
+div.row:after {
+  content: "";
+  display: table;
+  clear: both;
+  padding: 20px;
+}
