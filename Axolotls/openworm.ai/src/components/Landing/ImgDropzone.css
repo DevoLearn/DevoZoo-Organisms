@@ -1,0 +1,8 @@
+section.container{
+  margin-left: 150px;
+  margin-right: 150px;
+  margin-bottom: 20px;
+  border: 2px;
+  border-style: solid;
+  border-color: black;
+}

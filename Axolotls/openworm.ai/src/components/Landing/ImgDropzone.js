@@ -1,6 +1,6 @@
 import React from "react";
 import { useDropzone } from 'react-dropzone';
-
+import './ImgDropzone.css';
 
 
 export default function ImgDropzone(){
